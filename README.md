@@ -57,15 +57,15 @@ The following tools were used in the construction of the project:
 Swagger is located inside the "swagger folder".
 
 <p align="center">
-    <img src="./images/api_01.png" width="600" alt="API 01">
+    <img src="./images/api_01.png" width="700" alt="API routes">
 </p>
 
 <p align="center">
-    <img src="./images/api_02.png" width="600" alt="API 02">
+    <img src="./images/api_02.png" width="700" alt="API Categorias">
 </p>
 
 <p align="center">
-    <img src="./images/api_03.png" width="600" alt="API 03">
+    <img src="./images/api_03.png" width="700" alt="API Produtos">
 </p>
 
 <h2 id=author>😎 Author</h2>
