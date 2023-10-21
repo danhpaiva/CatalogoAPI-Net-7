@@ -1,7 +1,7 @@
-<h1 align="center"> 🖳 Catalogo API - .Net 7 🖳</h1>
+<h1 align="center"> 🖳 Catalogo API 🖳</h1>
 
 <p align="center">
-    <img src="./images/api.png" width="400" alt="API Catalog">
+    <img src="./images/api.png" width="400" alt="API Catalog in .Net 7">
 </p>
 
 <p align="center">
